@@ -1,0 +1,12 @@
+combo Posisi cap dan stempel - frm Proses Salinan
+combo ukuran kertas - frm Setting Akta
+combo fonts - frm Setting akta
+combo List Printer - frm Setting printer
+combo Type Printer - frm Setting printer
+combo Ukuran Kertas - frm Setting printer
+combo Printer Opsi - frm Setting Printer
+combo Opsi - frm Tanggal
+
+- Layout format marin save word.exe and pdf berbeda
+- publish install gagal, misal unistall malah error semua
+
